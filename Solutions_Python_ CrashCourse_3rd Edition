@@ -1,1 +1,4 @@
-print("Hello Everyone")
+Chapter: 2 
+Variables and Simple data type
+Variable = Variables are labeled (not a box that stores a value)
+method = Method is an action, that Python acts on a piece of data, to invoke a method we use "."
